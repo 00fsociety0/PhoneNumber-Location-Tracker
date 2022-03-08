@@ -1,0 +1,1 @@
+number = "+cc xxxxxxxxx"  #enter your phone number with country code
