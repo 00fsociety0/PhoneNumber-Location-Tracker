@@ -1,4 +1,4 @@
-# Phone Location + Service Provider
+# Phone Location + Service Provider Tracker
 
 This repository is used to get the `country` of the phone as well as the `sevice provider` for the phone number by using a python libraby called phonenumbers.
 
